@@ -1,0 +1,14 @@
+[1] L. Breiman, J. Friedman, R. Olshen, and C. Stone, Classification and regression trees. Chapman & Hall, 1984.
+[2] T. Calinski and J. Harabasz, A dendrite method for cluster analysis. Communications in Statistics, 1974.
+[3] D. L. Davies and D. W. Bouldin, A cluster separation measure. IEEE Transactions on Pattern Analysis and Machine Intelligence, 1979.
+[4] D. R. Cox, The regression analysis of binary sequences. Journal of the Royal Statistical Society: Series B, 1958.
+[5] G. Cybenko, Approximation by superpositions of a sigmoidal function. Mathematics of Control, Signals, and Systems, 1989.
+[6] D. Hand and R. Till, A simple generalisation of the area under the ROC curve for multiple class classification problems. Machine Learning, 2001.
+[7] S. Hochreiter and J. Schmidhuber, Long short-term memory. Neural Computation, 1997.
+[8] S. C. Johnson, Hierarchical clustering schemes. Psychometrika, 1967.
+[9] J. MacQueen, Some methods for classification and analysis of multivariate observations. Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability, 1967.
+[10] P. J. Rousseeuw, Silhouettes: A graphical aid to the interpretation and validation of cluster analysis. Journal of Computational and Applied Mathematics, 1987.
+[11] J. Tukey, Exploratory data analysis. Addison-Wesley, 1977.
+[12] L. Van der Maaten and G. Hinton, Visualizing data using t-SNE. Journal of Machine Learning Research, 2008.
+[13] S. Vito, Air Quality [Dataset]. Irvine, CA: UCI Machine Learning Repository, 2008. [Online]. Available: https://archive.ics.uci.edu/dataset/360/air+quality. DOI: 10.24432/C59K5F.
+[14] I. H. Witten and E. Frank, Data mining: practical machine learning tools and techniques. Morgan Kaufmann, 2005.
